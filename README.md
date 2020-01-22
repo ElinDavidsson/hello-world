@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 My name is Elin, I like horses 
-I'm learning GitHub
+I'm learning GitHub from my mistakes
